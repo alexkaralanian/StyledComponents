@@ -17,7 +17,8 @@ function App() {
     <React.Fragment>
       <GlobaStyle />
       <h1>App</h1>
-      <Button>Test</Button>
+      <Button disabled>Test</Button>
+      <Button secondary>Test</Button>
     </React.Fragment>
   );
 }
