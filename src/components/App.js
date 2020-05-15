@@ -19,6 +19,7 @@ function App() {
       <h1>App</h1>
       <Button disabled>Test</Button>
       <Button secondary>Test</Button>
+      <Button large>Test</Button>
     </React.Fragment>
   );
 }
